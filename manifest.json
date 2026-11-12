@@ -1,0 +1,10 @@
+{
+    "display_name": "Plain Creator Notes",
+    "loading_order": 50,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "rp-coderer",
+    "version": "1.0.0",
+    "homePage": "https://github.com/rp-coderer/SillyTavern-Plain-Creator-Notes"
+}
